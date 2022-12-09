@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>images/upload.jpg</file>
+     <file>images/empty.png</file>
+     <file>images/main.jpg</file>
+ </qresource>
+</RCC>
